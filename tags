@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/0fdbfdc/
+Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)	README.md	/^### Installation with [Tmux Plugin Manager](https:\/\/github.com\/tmux-plugins\/tpm)$/;"	S
+Preview	README.md	/^### Preview$/;"	S
+battery_heart_meter	scripts/battery_heart_meter.sh	/^battery_heart_meter() {$/;"	f
+command_exists	scripts/helpers.sh	/^command_exists() {$/;"	f
+do_interpolation	battery_heart_meter.tmux	/^do_interpolation() {$/;"	f
+get_tmux_option	scripts/helpers.sh	/^get_tmux_option() {$/;"	f
+is_cygwin	scripts/helpers.sh	/^is_cygwin() {$/;"	f
+is_osx	scripts/helpers.sh	/^is_osx() {$/;"	f
+main	battery_heart_meter.tmux	/^main() {$/;"	f
+round	scripts/helpers.sh	/^round() {$/;"	f
+set_tmux_option	scripts/helpers.sh	/^set_tmux_option() {$/;"	f
+tmux Battery Heart Meter	README.md	/^# tmux Battery Heart Meter$/;"	c
+update_tmux_option	battery_heart_meter.tmux	/^update_tmux_option() {$/;"	f
